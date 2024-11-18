@@ -1,7 +1,7 @@
 section .data
-    first db "Kush", 0         ; First name
-    middle db "Ashish", 0      ; Middle name
-    last db "Dastane", 0       ; Last name
+    first db "Aman", 0         ; First name
+    middle db "L", 0      ; Middle name
+    last db "Yaadav", 0       ; Last name
     fullname db 30 dup(0)      ; Reserve space for the full name
 
 section .bss
